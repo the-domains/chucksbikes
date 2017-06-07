@@ -19,9 +19,6 @@ navigation:
   - name: About Me
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
-  - name: Who are we?
-    id: dca7f9c4-03db-4cbd-aaed-a204dfd923df
-    type: content
 title: Canbikebc.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
