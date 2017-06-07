@@ -1,4 +1,3 @@
-layout_spectrum: 0.13200928651985924
 typography_spectrum: 0.7900112014407716
 color:
   brandColors:
@@ -11,9 +10,15 @@ color:
   lightness: 0.07663087420663474
   saturation: 0.8603968254792145
   rhythmicContrast: 0.6904364098929384
+github: true
+layout_spectrum: 0.13200928651985924
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
 name: canbikebc
+navigation:
+  - name: About Me
+    id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
+    type: content
 title: Canbikebc.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -24,21 +29,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbf7dc8-b066-49d8-9ea5-357920da0595.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Welcome to Canbikebc.ca
-github: true
