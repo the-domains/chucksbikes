@@ -18,7 +18,7 @@ navigation:
   - name: About
     id: 97db7c96-9b73-47ee-9159-9538235728a3
     type: content
-title: Chuck's Cycling Corner
+title: Canbikebc.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
