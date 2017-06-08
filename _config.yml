@@ -1,4 +1,3 @@
-layout_spectrum: 0.7409975927665202
 typography_spectrum: 0.7946907515924351
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.25521646937041886
   rhythmicContrast: 0.2730809293436532
 github: true
+layout_spectrum: 0.7409975927665202
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
 name: canbikebc
@@ -22,6 +22,9 @@ navigation:
   - name: Canbike
     id: dca7f9c4-03db-4cbd-aaed-a204dfd923df
     type: content
+  - name: Courses
+    url: 'http://courses.canbikebc.ca'
+    type: external
 title: Canbikebc.ca
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
