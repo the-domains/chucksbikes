@@ -16,12 +16,12 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
 name: canbikebc
 navigation:
-  - name: Canbike
-    id: dca7f9c4-03db-4cbd-aaed-a204dfd923df
-    type: content
   - name: Courses
     url: 'http://courses.canbikebc.ca'
     type: external
+  - name: Canbike
+    id: dca7f9c4-03db-4cbd-aaed-a204dfd923df
+    type: content
   - name: About Me
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
