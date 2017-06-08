@@ -17,7 +17,7 @@ logo: >-
 name: canbikebc
 navigation:
   - name: Courses
-    url: 'http://courses.canbikebc.ca'
+    url: 'https://courses.canbikebc.ca'
     type: external
   - name: Canbike
     id: dca7f9c4-03db-4cbd-aaed-a204dfd923df
@@ -68,7 +68,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
