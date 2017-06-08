@@ -25,7 +25,7 @@ navigation:
   - name: About Me
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
-title: Canbikebc.ca
+title: Canbike British Columbia
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
