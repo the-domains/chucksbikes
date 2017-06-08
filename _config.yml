@@ -1,17 +1,17 @@
-typography_spectrum: 0.7946907515924351
+layout_spectrum: 0.8394709629976734
+typography_spectrum: 0.9777312751696214
 color:
   brandColors:
-    - '#000000'
+    - '#52514C'
     - '#FFFFFF'
-    - '#7C0000'
-    - '#E9B67F'
-    - '#F65D00'
-  brandStrength: 1
-  lightness: 0.2931907368372978
-  saturation: 0.25521646937041886
-  rhythmicContrast: 0.2730809293436532
+    - '#040404'
+    - '#D09730'
+    - '#FFC65D'
+  brandStrength: 0.046857309163096224
+  lightness: 0.24187908172247802
+  saturation: 0.6849298434094111
+  rhythmicContrast: 0.4974008231507706
 github: true
-layout_spectrum: 0.7409975927665202
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
 name: canbikebc
