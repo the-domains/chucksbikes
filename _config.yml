@@ -30,7 +30,7 @@ navigation:
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
   - name: Blog
-    url: 'https://courses.canbikebc.ca/blog'
+    url: 'https://courses.canbikebc.ca/canbikebcblog'
     type: external
 title: Canbike British Columbia
 content:
