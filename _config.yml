@@ -1,4 +1,11 @@
+name: canbikebc
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
+layout_spectrum: 0.46000984542818724
 typography_spectrum: 1
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FEA500'
@@ -10,15 +17,14 @@ color:
   lightness: 0.4985475607821257
   saturation: 0.3644289620819105
   rhythmicContrast: 0.12212530446201932
-github: true
-layout_spectrum: 0.46000984542818724
+title: Canbike British Columbia
+description: Welcome to Canbikebc.ca
 author:
-  name: Ken McGonigal
+  name: Design by Ken McGonigal
   url: 'https://aegisnetworks.ca'
   email: ken.mcgonigal@aegisnetworks.ca
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/709a6566-d911-48a1-94cf-064603872aeb.gif
-name: canbikebc
+content_rating:
+  adult: false
 navigation:
   - name: Courses
     url: 'https://courses.canbikebc.ca'
@@ -29,7 +35,6 @@ navigation:
   - name: Blog
     url: 'https://courses.canbikebc.ca/canbikebcblog'
     type: external
-title: Canbike British Columbia
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -39,18 +44,15 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbf7dc8-b066-49d8-9ea5-357920da0595.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
@@ -63,20 +65,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/79567dd5-c715-4dcb-8023-7a1dc613749c.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Welcome to Canbikebc.ca
+github: true
