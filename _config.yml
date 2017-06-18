@@ -1,4 +1,4 @@
-name: canbikebc
+name: CAN-BIKE BC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/111a9e1f-dcfa-4860-b671-7424403ee142.png
 layout_spectrum: 0.46000984542818724
@@ -29,12 +29,12 @@ navigation:
   - name: Courses
     url: 'https://courses.canbikebc.ca'
     type: external
-  - name: About Me
-    id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
-    type: content
   - name: Blog
     url: 'https://courses.canbikebc.ca/canbikebcblog'
     type: external
+  - name: About Me
+    id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
