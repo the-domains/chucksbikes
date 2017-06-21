@@ -3,6 +3,8 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/401748e7-3ff7-413c-8fd2-c4f0e2d4bb09.png
 layout_spectrum: 0.46000984542818724
 typography_spectrum: 1
+analytics:
+  twitter: 'https://twitter.com/chuckglover1'
 opengraph:
   type: ''
   appId: ''
@@ -32,9 +34,6 @@ navigation:
   - name: Blog
     url: 'https://courses.canbikebc.ca/canbikebcblog'
     type: external
-  - name: About Me
-    id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
-    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -79,6 +78,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-analytics:
-  twitter: 'https://twitter.com/chuckglover1'
-url: 'https://canbikebc.ca'
