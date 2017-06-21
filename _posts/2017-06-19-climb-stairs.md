@@ -1,16 +1,16 @@
 ---
 title: Climb Stairs
-dateModified: '2017-06-19T13:02:47.444Z'
+dateModified: '2017-06-21T03:56:07.599Z'
 publisher: {}
 author: []
 inFeed: true
 description: ''
 via: {}
-datePublished: '2017-06-19T13:02:53.548Z'
+datePublished: '2017-06-21T03:56:08.116Z'
 hasPage: true
+sourcePath: _posts/2017-06-19-climb-stairs.md
 starred: false
 datePublishedOriginal: '2017-06-19T13:02:53.548Z'
-sourcePath: _posts/2017-06-19-climb-stairs.md
 url: climb-stairs/index.html
 _type: Article
 _context: 'http://schema.org'
