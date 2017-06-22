@@ -1,24 +1,24 @@
+layout_spectrum: 0.6168387397228381
+typography_spectrum: 0.5763979694951731
+color:
+  brandColors:
+    - '#FF7F00'
+    - '#3C3C3C'
+    - '#FFFFFF'
+    - '#040404'
+    - '#A6A39C'
+  brandStrength: 0.03208300578241965
+  lightness: 0.028470483347865762
+  saturation: 0.9315326187563231
+  rhythmicContrast: 0.02645206152867194
 name: CAN-BIKE BC
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/401748e7-3ff7-413c-8fd2-c4f0e2d4bb09.png
-layout_spectrum: 0.46000984542818724
-typography_spectrum: 1
 analytics:
   twitter: 'https://twitter.com/chuckglover1'
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#FEA500'
-    - '#3C3C3C'
-    - '#FFFFFF'
-    - '#A06700'
-    - '#A6ABAF'
-  brandStrength: 0.6873734717120851
-  lightness: 0.4985475607821257
-  saturation: 0.3644289620819105
-  rhythmicContrast: 0.12212530446201932
 title: CAN-BIKE British Columbia
 description: Welcome to Canbikebc.ca
 author:
