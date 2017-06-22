@@ -1,5 +1,6 @@
-layout_spectrum: 0.6168387397228381
 typography_spectrum: 0.5763979694951731
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF7F00'
@@ -11,22 +12,20 @@ color:
   lightness: 0.028470483347865762
   saturation: 0.9315326187563231
   rhythmicContrast: 0.02645206152867194
-name: CAN-BIKE BC
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/401748e7-3ff7-413c-8fd2-c4f0e2d4bb09.png
-analytics:
-  twitter: 'https://twitter.com/chuckglover1'
+github: true
 opengraph:
   type: ''
   appId: ''
-title: CAN-BIKE British Columbia
-description: Welcome to Canbikebc.ca
+layout_spectrum: 0.6168387397228381
+analytics:
+  twitter: 'https://twitter.com/chuckglover1'
 author:
   name: Design by Ken McGonigal
   url: 'https://aegisnetworks.ca'
   email: ken.mcgonigal@aegisnetworks.ca
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/401748e7-3ff7-413c-8fd2-c4f0e2d4bb09.png
+name: CAN-BIKE BC
 navigation:
   - name: Courses
     url: 'https://courses.canbikebc.ca'
@@ -37,6 +36,10 @@ navigation:
   - name: About
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
+  - name: Login
+    url: 'https://courses.canbikebc.ca/user'
+    type: external
+title: CAN-BIKE British Columbia
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -80,4 +83,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Welcome to Canbikebc.ca
