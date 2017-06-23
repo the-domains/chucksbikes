@@ -84,3 +84,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Welcome to Canbikebc.ca
+purpose:
+  - type: contact
+    url: 'mailto:chuck@canbikebc.ca'
+    label: Contact Chuck for Info
