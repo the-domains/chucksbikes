@@ -36,6 +36,9 @@ navigation:
   - name: Login
     url: 'https://courses.canbikebc.ca'
     type: external
+  - name: Blog
+    url: 'https://blog.canbikebc.ca'
+    type: external
 title: CAN-BIKE British Columbia
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
