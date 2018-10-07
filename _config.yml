@@ -30,9 +30,6 @@ navigation:
   - name: Courses
     url: 'https://courses.canbikebc.ca'
     type: external
-  - name: Blog
-    url: 'https://blog.canbikebc.ca/canbikebcblog'
-    type: external
   - name: About
     id: 6c670daa-c868-4c58-84ce-e07ffe6f519f
     type: content
